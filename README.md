@@ -105,7 +105,8 @@ Running Project
 
 ![blog sklearn](https://user-images.githubusercontent.com/71332138/134540412-a009eb7d-f4fa-412f-bc1a-a5c89ba74aa4.png). ![numpy](https://user-images.githubusercontent.com/71332138/134540645-95fa9566-18ca-4719-8cc6-82153e96683c.png) 
 
-                              ![flask](https://user-images.githubusercontent.com/71332138/136524845-9e52c59f-5868-4584-9dad-d4f23ee3ccc7.png)
+![flask](https://user-images.githubusercontent.com/71332138/136525463-d94befe6-f982-4f98-bd1c-833bdbd3c004.png)
+   
          
                             
 ## Tools / IDE

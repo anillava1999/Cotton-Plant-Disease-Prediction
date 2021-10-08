@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/71332138/136520856-67c28702-1462-4e5a-
 
 
 ## Overview
-I developed “🌿Cotton Plant Disease Prediction & Get Cure App” using Artificial Intelligence especially Deep learning. As Farmer, I know Farmer can’t solve Farm’s complex and even small problems due to lack of perfect education. So as AI enthusiastic I decided to solve this problem using the latest technology like AI.
+I developed “🌿Cotton Plant Disease Prediction & Get Cure App” using Artificial Intelligence especially Deep learning.I know Farmer can’t solve Farm’s complex and even small problems due to lack of perfect education. So as AI enthusiastic I decided to solve this problem using the latest technology like AI.
 
 Then I decide which algorithm is best to solve this problem and I select Transform Learning “Resnet” . I create my own Resnet architecture and it works well on the training and as well as testing dataset.
 

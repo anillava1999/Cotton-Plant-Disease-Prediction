@@ -2,7 +2,7 @@
 
 
 ## Table of Content
-  * Demo
+  * Video Demo
   * Overview
   * Motivation
   * Data Collection
@@ -16,7 +16,7 @@ For any queries regarding about this project contact me
 
 Link : https://www.linkedin.com/in/anil-l-b023631b6/
 
-## Demo
+## Video Demo
 
 https://user-images.githubusercontent.com/71332138/136520856-67c28702-1462-4e5a-96fa-57f149c5a2dd.mov
 

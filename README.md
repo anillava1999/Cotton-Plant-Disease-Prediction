@@ -1,4 +1,4 @@
-# Cotton-Disease-Prediction
+# Cotton-Plant-Disease-Prediction
 
 
 ## Table of Content

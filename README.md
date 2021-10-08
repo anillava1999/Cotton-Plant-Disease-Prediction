@@ -6,10 +6,10 @@
   * Overview
   * Motivation
   * Data Collection
-  * Random Forest
-  * Deployement on Heroku
+  * Resnet(Transform Learning)
   * Installation and Run 
-  * Future scope of the project
+  * Deployement on AWS
+  * Future scope of the Project
  
 ## Linkdin Profile
 For any queries regarding about this project contact me
@@ -24,8 +24,6 @@ https://user-images.githubusercontent.com/71332138/136520856-67c28702-1462-4e5a-
 
 ## Overview
 I developed “🌿Cotton Plant Disease Prediction & Get Cure App” using Artificial Intelligence especially Deep learning. As Farmer, I know Farmer can’t solve Farm’s complex and even small problems due to lack of perfect education. So as AI enthusiastic I decided to solve this problem using the latest technology like AI.
-
-I just took baby step and start to collect lots of images of cotton crop plants from my farm. To collect accurate data we need expertise in that domain and as a farmer it help me a lot.
 
 Then I decide which algorithm is best to solve this problem and I select Transform Learning “Resnet” . I create my own Resnet architecture and it works well on the training and as well as testing dataset.
 
@@ -101,11 +99,7 @@ Running Project
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)  ![pandas](https://user-images.githubusercontent.com/71332138/134156736-9dcc4675-e588-42a6-9481-816ac08654ab.png). ![nltk](https://user-images.githubusercontent.com/71332138/134540164-b00fafda-ccde-49ce-a5c5-3019a856f860.png) 
-
-![blog sklearn](https://user-images.githubusercontent.com/71332138/134540412-a009eb7d-f4fa-412f-bc1a-a5c89ba74aa4.png). ![numpy](https://user-images.githubusercontent.com/71332138/134540645-95fa9566-18ca-4719-8cc6-82153e96683c.png) 
-
-![flask](https://user-images.githubusercontent.com/71332138/136525463-d94befe6-f982-4f98-bd1c-833bdbd3c004.png)
+![](https://forthebadge.com/images/badges/made-with-python.svg)  ![pandas](https://user-images.githubusercontent.com/71332138/134156736-9dcc4675-e588-42a6-9481-816ac08654ab.png).![numpy](https://user-images.githubusercontent.com/71332138/134540645-95fa9566-18ca-4719-8cc6-82153e96683c.png)  ![keras](https://user-images.githubusercontent.com/71332138/136526114-f54bbef6-8fa6-4932-b145-e6d9287d6999.png)![flask](https://user-images.githubusercontent.com/71332138/136525463-d94befe6-f982-4f98-bd1c-833bdbd3c004.png)
    
          
                             

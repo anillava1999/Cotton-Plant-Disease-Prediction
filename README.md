@@ -32,7 +32,7 @@ What to do when you are at home due to this pandemic situation? I started to lea
 
 
 ## Data Collection 
-Indian AI Prodcution just took start to collect lots of images of cotton crop plants from farmer with there help it easy to collect accurate data we need expertise in that domain and as a farmer it help me a lot. Thank You Indian AI Prodcution(Credits)
+Indian AI Prodcution just start to collect lots of images of cotton crop plants from farmer with there help it easy to collect accurate data we need expertise in that domain and as a farmer it help me a lot. Thank You Indian AI Prodcution(Credits)
 
 Database Link : [https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue]
 ## Resnet(94% Accuracy)

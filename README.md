@@ -28,7 +28,7 @@ I developed “🌿Cotton Plant Disease Prediction & Get Cure App” using Artif
 Then I decide which algorithm is best to solve this problem and I select Transform Learning “Resnet” . I create my own Resnet architecture and it works well on the training and as well as testing dataset.
 
 ## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models and unspurervised models. Finally it is important to work on application (real world application) to actually make a difference. To get a experience you have to work thats the reason to perform my favourable work done.
+What to do when you are at home due to this pandemic situation? I started to learn Machine Learning and Deep Learning model to get most out of it. I came to know mathematics behind all supervised models,unspurervised models,CNN,ANN and RNN. Finally it is important to work on application (real world application) to actually make a difference. To get a experience you have to work thats the reason to perform my favourable work done.
 
 
 ## Data Collection 

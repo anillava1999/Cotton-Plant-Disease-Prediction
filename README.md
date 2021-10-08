@@ -10,6 +10,17 @@ It gives me more than 98% accuracy on training and validation data set in just 5
 
 After that I have deployed this model on AWS cloud. Please have look
 
+
+## Tools / IDE
+I used Jupyter NoteBook (Google Colab) for model training. used spyder for model deployment on the local system. To use Jupyter NoteBook and Spyder, just install anaconda.
+
+Software Requirments
+Python == 3.7.7
+TensorFlow == 2.1.0
+Keras == 2.4.3
+NumPy == 1.18.5
+Flask == 1.1.2
+
 ![Screenshot 2021-10-07 at 11 17 47 PM](https://user-images.githubusercontent.com/71332138/136440157-0381d568-bdf8-43a1-b65b-cc46034700d0.png)
 ![Screenshot 2021-10-07 at 11 18 05 PM](https://user-images.githubusercontent.com/71332138/136440173-a208913b-20e8-41ce-aa2d-b9835d89592f.png)
 ![Screenshot 2021-10-07 at 11 18 12 PM](https://user-images.githubusercontent.com/71332138/136440175-2558f401-538e-475a-b4c1-e72c3be120de.png)
